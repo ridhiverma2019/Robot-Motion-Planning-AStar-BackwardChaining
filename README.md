@@ -12,3 +12,7 @@ It is designed to efficiently navigate complex environments by improving decisio
 1. Clone the repository:
    ```bash
    git clone https://github.com/username/Robot-Motion-Planning-AStar-BackwardChaining.git
+2. Navigate to the Project Directory
+   cd Robot-Motion-Planning-AStar-BackwardChaining
+
+3. Run the Python file
